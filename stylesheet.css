@@ -102,6 +102,14 @@ papertitle {
   font-weight: 700;
 }
 
+.project-container {
+  display: flex;
+  justify-content: space-between;
+  /* background-color: #f0f0f0; Background color for the container */
+  /* padding: 10px; */
+  margin-bottom: 10px;
+}
+
 name {
   font-family: 'Titillium Web', sans-serif;
   font-size: 32px;
